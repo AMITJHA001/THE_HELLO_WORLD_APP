@@ -4,4 +4,4 @@
 
 #Css give's basic styling to it.
 
-#Make it interactive and fun to use.
+#Javascript make it interactive and fun to use.
