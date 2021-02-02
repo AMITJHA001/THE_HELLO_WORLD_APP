@@ -1,0 +1,10 @@
+#content {
+    text-align: center;
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: 120px;
+    font-weight: bolder;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
